@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BioDivInc
 - 👀 I’m interested in exploring biological data using SQL, R, Python
-- 🌱 I’m currently learning SQL and improving my R skills
+- 🌱 I’m currently learning SQL, Python and improving my R skills
 - 💞️ I’m currently looking for interesting junior positions fitting my profile
 
 <!---
